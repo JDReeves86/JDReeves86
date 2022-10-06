@@ -40,9 +40,9 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDReeves86&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDReeves86&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDReeves86&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDReeves86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDReeves86&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Currently working on: 
