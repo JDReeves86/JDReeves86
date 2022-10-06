@@ -35,8 +35,8 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
 </div>
 
 <br>
-
-### Stats:
+<br>
+        
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDReeves86&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
