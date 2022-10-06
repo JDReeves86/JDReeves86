@@ -1,16 +1,19 @@
-### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=JDReeves86">
-<div id="badges">
-    <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://jdreeves86.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
-    </a>
-    <a href="mailto:JDReeves86@gmail.com">
-      <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+<div align="center">
+    ### Hi there 👋
+    <img src="https://komarev.com/ghpvc/?username=JDReeves86">
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="https://jdreeves86.github.io/Portfolio/">
+          <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
+        </a>
+        <a href="mailto:JDReeves86@gmail.com">
+          <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+        </a>
+    </div>
 </div>
+
 
 ## About me
 
