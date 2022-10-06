@@ -1,4 +1,4 @@
-### Welcome! 😃
+### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=JDReeves86">
 <div id="badges">
     <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/">
@@ -47,6 +47,9 @@ Break into the Web Development and Software space to pursue a passion for proble
 
 ### How to reach me:
 Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
+[Portfolio](https://jdreeves86.github.io/Portfolio/)
+[LinkedIn] (https://www.linkedin.com/in/jacob-reeves-4237a9238/)
+[Resume] (https://docs.google.com/document/d/1lZ0oq_g1BTosezgiiM0GG5BTYMFUDMLd/edit)
 
 
 
