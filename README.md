@@ -14,6 +14,7 @@
 I am an aspiring Full Stack Developer with a background in Critical Care Nursing. I hope to take the skills I have learned in my Nursing career and translate them into the Web Development space. Currently located in Auburn, Washington; I love outdoor activities including fishing, archery, and paddleboarding. 
 
 Skills/Languages I am proficient in:
+
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" alt="HTML Badge"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" alt="HTML Badge"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" alt="HTML Badge"/>
