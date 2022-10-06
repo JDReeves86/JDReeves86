@@ -1,4 +1,4 @@
-### Welcome! :Beaming face with smiling eyes:
+### Welcome! :Beaming_face_with_smiling_eyes:
 <img src="https://komarev.com/ghpvc/?username=JDReeves86">
 <div id="badges">
     <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/">
