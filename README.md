@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://jdreeves86.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-red" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
 </div>
 
