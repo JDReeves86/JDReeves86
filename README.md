@@ -30,6 +30,13 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
 
 <br>
 
+### Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JDReeves86&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDReeves86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Currently working on: 
 Earning Fullstack Web Development Certificate through the University of Washington.
 
@@ -40,6 +47,7 @@ Break into the Web Development and Software space to pursue a passion for proble
 
 ### How to reach me:
 Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
+
 
 
 <!--
@@ -56,4 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
