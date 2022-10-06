@@ -18,7 +18,7 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma Badge"/></span>
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma Badge" width="40" height="40"/></span>
 <span><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="HTML Badge"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="HTML Badge"/></span>
 <span><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white" alt="HTML Badge"/></span>
