@@ -31,7 +31,7 @@ Break into the Web Development and Software space to pursue a passion for proble
 ### Ask me about my wildest stories working in the hospital!
 
 ### How to reach me:
-Email: [mailto:JDReeves86@gmail.com](JDReeves86@gmail.com)
+Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
 
 
 <!--
