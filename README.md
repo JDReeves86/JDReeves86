@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=JDReeves86">
 
 ## About me
 <br>
@@ -6,7 +7,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JDReeves86">
+
 
 <!--
 **JDReeves86/JDReeves86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
