@@ -25,8 +25,13 @@ Skills/Languages I am proficient in:
 ### Currently working on: 
 Earning Fullstack Web Development Certificate through the University of Washington.
 
-### 
+### I'm looking to:
+Break into the Web Development and Software space to pursue a passion for problem solving, helping others, and technology. I hope to take my knowledge of Healthcare and use it to help the dramatic shift the Healthcare space needs to meet the needs of it's consumers.
 
+### Ask me about my wildest stories working in the hospital!
+
+### How to reach me:
+Email: [mailto:JDReeves86@gmail.com](JDReeves86@gmail.com)
 
 
 <!--
