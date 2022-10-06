@@ -7,6 +7,9 @@
     <a href="https://jdreeves86.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
+    <a href="mailto:JDReeves86@gmail.com">
+      <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge" alt="Email Badge"/>
+    </a>
 </div>
 
 ## About me
