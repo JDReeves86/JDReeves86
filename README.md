@@ -2,16 +2,16 @@
     <h1>Welcome! 😃: <h1>
     <img src="https://komarev.com/ghpvc/?username=JDReeves86">
     <div id="badges">
-        <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="none">
+        <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://jdreeves86.github.io/Portfolio/">
+        <a href="https://jdreeves86.github.io/Portfolio/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge" alt="Portfolio Badge"/>
         </a>
-        <a href="mailto:JDReeves86@gmail.com">
+        <a href="mailto:JDReeves86@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
         </a>
-        <a href="https://www.codewars.com/users/JDReeves86">
+        <a href="https://www.codewars.com/users/JDReeves86" target="_blank">
           <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=black" alt="Codewars Badge"/>
         </a>
     </div>
