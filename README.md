@@ -11,6 +11,9 @@
         <a href="mailto:JDReeves86@gmail.com">
           <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
         </a>
+        <a href="https://www.codewars.com/users/JDReeves86">
+          <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Email Badge"/>
+        </a>
     </div>
 </div>
 
