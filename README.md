@@ -6,13 +6,13 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://jdreeves86.github.io/Portfolio/">
-          <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
+          <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio Badge"/>
         </a>
         <a href="mailto:JDReeves86@gmail.com">
           <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
         </a>
         <a href="https://www.codewars.com/users/JDReeves86">
-          <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Email Badge"/>
+          <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=black" alt="Codewars Badge"/>
         </a>
     </div>
 </div>
