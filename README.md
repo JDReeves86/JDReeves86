@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Welcome! 😃: <h1>
+    <h1>Welcome! 😃 <h1>
     <img src="https://komarev.com/ghpvc/?username=JDReeves86">
     <div id="badges">
         <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="_blank">
