@@ -2,7 +2,7 @@
     <h1>Welcome! 😃: <h1>
     <img src="https://komarev.com/ghpvc/?username=JDReeves86">
     <div id="badges">
-        <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="_blank">
+        <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="none">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://jdreeves86.github.io/Portfolio/">
