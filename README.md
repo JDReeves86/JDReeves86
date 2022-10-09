@@ -58,8 +58,6 @@ Earning Fullstack Web Development Certificate through the University of Washingt
 ### I'm looking to:
 Break into the Web Development and Software space to pursue a passion for problem solving, helping others, and technology. I hope to take my knowledge of Healthcare and use it to help the dramatic shift the Healthcare industry needs to meet the needs of it's consumers.
 
-### Ask me about my wildest stories working in the hospital!
-
 ### How to reach me:
 Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
         
