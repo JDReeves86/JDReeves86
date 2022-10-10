@@ -59,7 +59,8 @@ Earning Fullstack Web Development Certificate through the University of Washingt
 Break into the Web Development and Software space to pursue a passion for problem solving, helping others, and technology.
 
 ### What I bring with me:
-<ul>I have a wide array of experience in the healthcare setting including the inpatient & outpatient setting. With that comes:
+I have a wide array of experience in the healthcare setting including the inpatient & outpatient setting. With that comes:
+<ul>
 <li>A thorough understanding of how to relate to others.</li>
 <li>An ability to think outside the box to solve problems.</li>
 <li>The flexibility to adapt to new an evolving situations.</li>
