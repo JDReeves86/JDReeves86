@@ -64,6 +64,9 @@ I have a wide array of experience in the healthcare setting including the inpati
 <li>A thorough understanding of how to relate to others.</li>
 <li>An ability to think outside the box to solve problems.</li>
 <li>The flexibility to adapt to new an evolving situations.</li>
+<li>A passion for excellence.</li>
+<li>Demonstrated ability to lead teams.</li>
+<li>The capability to think quickly and act decisively in high stress environments.</li>
 </ul>
 
 ### How to reach me:
