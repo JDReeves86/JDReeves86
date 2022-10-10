@@ -56,7 +56,14 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
 Earning Fullstack Web Development Certificate through the University of Washington.
 
 ### I'm looking to:
-Break into the Web Development and Software space to pursue a passion for problem solving, helping others, and technology. I hope to take my knowledge of Healthcare and use it to help the dramatic shift the Healthcare industry needs to meet the needs of it's consumers.
+Break into the Web Development and Software space to pursue a passion for problem solving, helping others, and technology.
+
+### What I bring with me:
+<ul>I have a wide array of experience in the healthcare setting including the inpatient & outpatient setting. With that comes:
+<li>A thorough understanding of how to relate to others.</li>
+<li>An ability to think outside the box to solve problems.</li>
+<li>The flexibility to adapt to new an evolving situations.</li>
+</ul>
 
 ### How to reach me:
 Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
