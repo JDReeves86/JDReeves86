@@ -33,6 +33,7 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Badge" width="40" height="40"/></span>
+    <span><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gh Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC Badge" width="40" height="40"/></span>
