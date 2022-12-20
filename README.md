@@ -29,6 +29,7 @@ I am an aspiring Full Stack Developer with a background in Critical Care Nursing
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node Badge" width="40" height="40"/></span>
+    <span><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery Badge" width="40" height="40"/></span>
     <span><img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars Badge" width="40" height="40"/></span>
