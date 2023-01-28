@@ -75,7 +75,7 @@ I have a wide array of experience in the healthcare setting including the inpati
 ### How to reach me:
 Email: [JDReeves86@gmail.com](mailto:JDReeves86@gmail.com)
         
-[Portfolio](https://jreeves-portfolio.herokuapp.com/)
+[Portfolio](https://jdreeves-portfolio.netlify.app/)
         
 [LinkedIn](https://www.linkedin.com/in/jacob-reeves-4237a9238/)
         
