@@ -5,7 +5,7 @@
         <a href="https://www.linkedin.com/in/jacob-reeves-4237a9238/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://jdreeves86.github.io/Portfolio/" target="_blank">
+        <a href="https://jdreeves-portfolio.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge" alt="Portfolio Badge"/>
         </a>
         <a href="mailto:JDReeves86@gmail.com" target="_blank">
